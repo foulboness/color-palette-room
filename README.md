@@ -8,20 +8,20 @@ PALETTE ROOM is an interactive color exploration studio for generating, editing,
 
 ---
 
-## ✦ Features
+## Features
 
-* 🎨 **Palette Generator** — Generate 5-color palettes, lock colors, reorder swatches, and copy HEX/RGB/HSL values.
-* ◉ **Color Editor** — Edit colors and generate complementary, analogous, triadic, and other harmonies.
-* ✦ **Explore** — Browse curated palettes including Cyberpunk, Gothic, Pastel, Kawaii, Y2K, Nature, Midnight, and Experimental.
-* ▦ **UI Preview** — Apply palettes to a sample interface and preview backgrounds, text, buttons, cards, borders, and gradients.
-* ◐ **Contrast Checker** — Check WCAG contrast ratios and accessibility levels.
-* ♡ **My Palettes** — Save, rename, duplicate, edit, and delete palettes using `localStorage`.
-* ⇩ **Export** — Export palettes as HEX, CSS variables, JSON, Tailwind configuration, or PNG.
-* ⚡ **Experimental Mode** — Explore collections such as Neon Noir, Dreamcore, Victorian Night, Cyberpunk, and Acid Dream.
+* **Palette Generator** — Generate 5-color palettes, lock colors, reorder swatches, and copy HEX/RGB/HSL values.
+* **Color Editor** — Edit colors and generate complementary, analogous, triadic, and other harmonies.
+* **Explore** — Browse curated palettes including Cyberpunk, Gothic, Pastel, Kawaii, Y2K, Nature, Midnight, and Experimental.
+* **UI Preview** — Apply palettes to a sample interface and preview backgrounds, text, buttons, cards, borders, and gradients.
+* **Contrast Checker** — Check WCAG contrast ratios and accessibility levels.
+* **My Palettes** — Save, rename, duplicate, edit, and delete palettes using `localStorage`.
+* **Export** — Export palettes as HEX, CSS variables, JSON, Tailwind configuration, or PNG.
+* **Experimental Mode** — Explore collections such as Neon Noir, Dreamcore, Victorian Night, Cyberpunk, and Acid Dream.
 
 ---
 
-## ◇ Navigation
+## Navigation
 
 ```text
 LAB · EXPLORE · COLLECTION · CONTRAST · ABOUT
@@ -37,7 +37,7 @@ Additional interactions include keyboard shortcuts, drag-and-drop colors, hover 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **React + TypeScript**
 * **Vite**
@@ -45,16 +45,15 @@ Additional interactions include keyboard shortcuts, drag-and-drop colors, hover 
 * **Framer Motion**
 * **Lucide React**
 * **chroma.js**
-* **localStorage**
 
 No backend, authentication, accounts, or database are required.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/palette-room.git
+git clone https://github.com/foulboness/color-palette-room.git
 cd palette-room
 npm install
 npm run dev
@@ -68,7 +67,7 @@ npm run build
 
 ---
 
-## 🎨 Design
+## Design
 
 PALETTE ROOM uses a dark, minimalist creative-studio aesthetic featuring:
 
@@ -81,24 +80,10 @@ PALETTE ROOM uses a dark, minimalist creative-studio aesthetic featuring:
 * Smooth animations
 * Responsive layouts
 
-The goal is to make color exploration feel more like working inside a **digital laboratory** than a traditional dashboard.
-
 ---
 
-## 🔮 Future Ideas
 
-* Image-to-palette generation
-* Gradient generator
-* Color blindness simulation
-* OKLCH support
-* Undo/redo
-* Shareable palettes
-* Figma export
-* Design-token export
-
----
-
-## 📄 License
+## License
 
 Created for personal, educational, and portfolio use.
 
