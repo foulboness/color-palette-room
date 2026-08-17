@@ -1,0 +1,6 @@
+{
+  "name": "PALETTE ROOM — Color Exploration Studio",
+  "description": "A dark minimalist creative color laboratory for generating, exploring, editing, testing contrast, and exporting color palettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
